@@ -753,7 +753,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/selotest_atlas_1.png", id:"selotest_atlas_1"}
+		{src:"selotest_atlas_1.png", id:"selotest_atlas_1"}
 	],
 	preloads: []
 };
